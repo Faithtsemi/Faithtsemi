@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  I'm a passionate fullstack developer with experience in building responsive web applications from front to back using:
+  I’m a Fullstack Developer with experience building scalable web applications using .NET, Vue.js, React, Java, and PostgreSQL.
+
+I enjoy designing clean APIs, solving real-world problems, and building user-focused software solutions.
 </p>
 
 ---
@@ -21,7 +23,13 @@
 
 - 🌱 I’m currently building fullstack apps using `.NET + Vue.js`
 - 🛠 I work with both frontend and backend technologies to create efficient, scalable applications
-- ⚡ Fun fact: I'm dedicated to creating solutions that make a difference!
+- ⚡ Fun fact : ⚡ Passionate about building scalable, user-focused applications and continuously improving engineering skills
+- ## 🚀 Engineering Interests
+- RESTful API Development
+- Fullstack Web Applications
+- Software Architecture
+- Database Design
+- Continuous Learning & Problem Solving
 
 ---
 
